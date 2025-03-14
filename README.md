@@ -1,8 +1,9 @@
 Klipper config for Vivedino Troodon 2.0
-***This is still under development, so assume nothing works as it should :)***
-Config for LDO Nitehawk-SB, Galileo 2 extruder, Cartographer probe, sensorless homing & TMC Autotune.
+***This is still under development, so assume nothing works as it should :)
+***\
+Config for LDO Nitehawk-SB, Galileo 2 extruder, Cartographer probe, sensorless homing & TMC Autotune.\
 
-To install TMC Autotune, do the following:
+To install TMC Autotune, do the following:\
 
 Installation
 To install this plugin, run the installation script using the following command over SSH. This script will download this GitHub repository to your RaspberryPi home directory, and symlink the files in the Klipper extra folder.
