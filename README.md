@@ -7,11 +7,14 @@ To install TMC Autotune, do the following:\
 Installation
 To install this plugin, run the installation script using the following command over SSH. This script will download this GitHub repository to your RaspberryPi home directory, and symlink the files in the Klipper extra folder.
 
-```wget -O - https://raw.githubusercontent.com/andrewmcgr/klipper_tmc_autotune/main/install.sh | bash```
+```bash
+wget -O - https://raw.githubusercontent.com/andrewmcgr/klipper_tmc_autotune/main/install.sh | bash
+```
 
 Then, add the following to your moonraker.conf to enable automatic updates:
 
-```[update_manager klipper_tmc_autotune]\
+```ini
+[update_manager klipper_tmc_autotune]\
 type: git_repo
 channel: dev
 path: ~/klipper_tmc_autotune
