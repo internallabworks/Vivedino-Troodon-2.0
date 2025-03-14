@@ -14,7 +14,7 @@ wget -O - https://raw.githubusercontent.com/andrewmcgr/klipper_tmc_autotune/main
 Then, add the following to your moonraker.conf to enable automatic updates:
 
 ```ini
-[update_manager klipper_tmc_autotune]\
+[update_manager klipper_tmc_autotune]
 type: git_repo
 channel: dev
 path: ~/klipper_tmc_autotune
