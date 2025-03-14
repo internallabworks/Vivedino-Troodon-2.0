@@ -6,9 +6,11 @@ Config for LDO Nitehawk-SB, Galileo 2 extruder, Cartographer probe, sensorless h
 \
 To install TMC Autotune, do the following:
 \
-(Copied from [TMC Autotune Github](https://github.com/andrewmcgr/klipper_tmc_autotune).
+(Copied from [TMC Autotune Github](https://github.com/andrewmcgr/klipper_tmc_autotune)).
+\
 \
 Installation
+\
 \
 To install this plugin, run the installation script using the following command over SSH. This script will download this GitHub repository to your RaspberryPi home directory, and symlink the files in the Klipper extra folder.
 \
