@@ -19,7 +19,7 @@ To install this plugin, run the installation script using the following command 
 wget -O - https://raw.githubusercontent.com/andrewmcgr/klipper_tmc_autotune/main/install.sh | bash
 ```
 
-Then, add the following to your moonraker.conf to enable automatic updates:
+Then, add the following to your `moonraker.conf` to enable automatic updates:
 
 ```ini
 [update_manager klipper_tmc_autotune]
