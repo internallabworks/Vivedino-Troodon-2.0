@@ -1,4 +1,4 @@
-Klipper config for Vivedino Troodon 2.0
+# Klipper config for Vivedino Troodon 2.0
 \
 ***This is still under development, so assume nothing works as it should :)***
 \
