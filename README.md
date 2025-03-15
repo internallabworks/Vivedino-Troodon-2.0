@@ -13,7 +13,8 @@ To install TMC Autotune, do the following:
 **Installation**
 \
 \
-To install this plugin, run the installation script using the following command over SSH. 
+To install this plugin, run the installation script using the following command over SSH.
+\
 This script will download this GitHub repository to your RaspberryPi home directory, and symlink the files in the Klipper extra folder.
 
 ```bash
