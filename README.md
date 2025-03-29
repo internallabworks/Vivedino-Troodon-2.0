@@ -2,7 +2,7 @@
 \
 ***This is still under development, so assume nothing works as it should :)***
 \
-Config for LDO Nitehawk-SB, Galileo2 extruder, Cartographer probe, sensorless homing & TMC Autotune.
+Config for LDO Nitehawk-SB, Galileo2 extruder, Cartographer probe, sensorless homing, TMC Autotune, Klippain Shaketune and SB leds.
 \
 \
 To install TMC Autotune, do the following:
